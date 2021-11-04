@@ -1,0 +1,15 @@
+.container
+{
+    margin-top: 90px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#fo
+{
+    display: contents;
+}

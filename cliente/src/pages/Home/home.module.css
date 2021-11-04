@@ -1,0 +1,35 @@
+#container
+{
+    margin: 10px 80px;
+    margin-top: 90px;
+}
+#content
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: baseline;
+    margin: 50px;
+}
+.titulo
+{
+   margin: 50px 80px;
+   font-size: 70px!important;
+}
+.subTitulo
+{
+    font-size: 20px!important;
+    color:steelblue;
+}
+#content div
+{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    align-items: center;
+}
+.icono
+{
+    height: 80px;
+    width: 80px;
+}
